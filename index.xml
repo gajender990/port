@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Gajender Kunwar</title>
+    <link>https://github.com/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Gajender Kunwar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Movie Recommender Sytem</title>
+      <link>https://github.com/portfolio/post/project-1/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/portfolio/post/project-1/</guid>
+      <description>Created a website that will recommend five different movies according to user input. Used TMDB 5000 Movie Dataset from Kaggle find important features and combine those feature into one feature tags Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Nltk are used. Deployed using Heroku Cloud. Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Sale Prize of Bulldozers</title>
+      <link>https://github.com/portfolio/post/project-2/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/portfolio/post/project-2/</guid>
+      <description>This machine learning project with the goal of predicting the sale price of bulldozers.
+Data Dataset can be downloaded from: https://www.kaggle.com/c/bluebook-for-bulldozers/data
+For evaluation i used RMSLE (root mean squared log error) and also tried to improve evaluation metrics through HyperParameter Tuning.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/portfolio/contact/</guid>
+      <description>Connect with me on these social media platforms.
+Platform URL LinkedIn: https://www.linkedin.com/in/gajender-singh-a2552b18b Website: https://movie-recommender-ga.herokuapp.com GitHub: https://github.com/gajender990 </description>
+    </item>
+    
+  </channel>
+</rss>
